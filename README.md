@@ -1,2 +1,6 @@
-# RandomIntPick
+# Random Int Pick
 코드 수정이 필요없는 랜덤 수 생성기
+
+사용법: 
+  A. 2.pyw의 수 부분을 원하는 범위의 끝 수(예: 1 ~ 70 = 70.pyw)로 설정한 후 실행
+  B. <Enter>를 눌러 랜덤 수 생성
